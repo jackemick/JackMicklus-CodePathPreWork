@@ -46,7 +46,7 @@ GIF created with Kap
     - Creating group listening sessions
     - The *not interested* button to allow users to filter out songs/genres they don't like
     
-**My Idea**
+**My Idea**:
     I would like to create an app revolving around working out and the interactions you can have while doing so. This app would have a leaderboard system between users and their friends, so they can compete when working out and stay motivated. There would also be an page like the explore page from Instagram where users can find content that relates to their fitness goals (bodybuilding, weightloss, general health, etc.).
 
 ## Notes
